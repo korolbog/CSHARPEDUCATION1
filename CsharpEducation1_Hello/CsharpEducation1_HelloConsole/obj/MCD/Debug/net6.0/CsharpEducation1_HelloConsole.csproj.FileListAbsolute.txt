@@ -1,0 +1,15 @@
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\bin\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.exe
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\bin\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.deps.json
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\bin\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.runtimeconfig.json
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\bin\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.dll
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\bin\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.pdb
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.AssemblyInfo.cs
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.dll
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\refint\CsharpEducation1_HelloConsole.dll
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.pdb
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\CsharpEducation1_HelloConsole.genruntimeconfig.cache
+C:\Users\bkorolev\Desktop\CsharpEducation1\CsharpEducation1_Hello\CsharpEducation1_HelloConsole\obj\MCD\Debug\net6.0\ref\CsharpEducation1_HelloConsole.dll
